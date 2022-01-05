@@ -182,5 +182,4 @@ for migration in migrations_list:
 
 if counter == 0:
 	logger.info("No migrations to execute")	
-
 	
